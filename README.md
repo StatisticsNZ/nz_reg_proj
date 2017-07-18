@@ -1,4 +1,4 @@
-# repository_template
+# nz_reg_proj
 
 Description of repository contents 
 
