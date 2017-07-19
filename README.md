@@ -1,6 +1,6 @@
 # nz_reg_proj
 
-Description of repository contents 
+Code to be uploaded soon!
 
 
 
